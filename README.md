@@ -59,13 +59,13 @@ The Metro Ticket Generation System is a ServiceNow-based application developed t
 
 ## 📸 Screenshots
 
-<img width="1902" height="1012" alt="image" src="https://github.com/user-attachments/assets/f27ad171-c11f-4db5-adb2-dddbdf33fd8c" />
+<img width="1902" height="1012" alt="image" src="https://github.com/user-attachments/assets/f27ad171-c11f-4db5-adb2-dddbdf33fd8c" /><br>
 
-<img width="1918" height="912" alt="image" src="https://github.com/user-attachments/assets/2be6c6a8-1456-43a5-b717-75a90677b97d" />
+<img width="1918" height="912" alt="image" src="https://github.com/user-attachments/assets/2be6c6a8-1456-43a5-b717-75a90677b97d" /><br>
 
-<img width="1908" height="783" alt="image" src="https://github.com/user-attachments/assets/58dfaa69-c332-46b8-aea0-32011bed61f1" />
+<img width="1908" height="783" alt="image" src="https://github.com/user-attachments/assets/58dfaa69-c332-46b8-aea0-32011bed61f1" /><br>
 
-<img width="1520" height="907" alt="image" src="https://github.com/user-attachments/assets/c58c122b-7112-459c-985b-fd5864e4424f" />
+<img width="1520" height="907" alt="image" src="https://github.com/user-attachments/assets/c58c122b-7112-459c-985b-fd5864e4424f" /><br>
 
 
 ## 🚀 Future Enhancements
