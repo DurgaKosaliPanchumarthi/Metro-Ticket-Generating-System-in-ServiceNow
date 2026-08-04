@@ -4,7 +4,7 @@
 📌 Project Overview
 The Metro Ticket Generation System is a ServiceNow-based application developed to automate the metro ticket booking process. It allows users to book metro tickets through a Service Catalog, automatically calculates the fare, generates a unique ticket with a QR code, and stores all booking details in the database. The application eliminates manual ticket generation and provides a faster, more efficient, and user-friendly booking experience. The project uses ServiceNow tables, Catalog Items, Client Scripts, Flow Designer, and QR code generation to automate the complete ticket lifecycle.
 
-✨ Features\n
+✨ Features<br>
 
 🚉 Book Metro Tickets through Service Portal
 
